@@ -1,0 +1,24 @@
+
+.recentUploads {
+  margin-top: 30px;
+  color: var(--primaryText);
+}
+
+.uploadList {
+  list-style: none;
+  padding: 0;
+}
+
+.uploadItem {
+  background: var(--cardBackground);
+  padding: 10px;
+  margin-bottom: 5px;
+  border: 1px solid var(--cardBorder);
+  border-radius: 8px;
+}
+
+.downloadLink {
+  color: var(--link);
+  font-weight: bold;
+  text-decoration: none;
+}
